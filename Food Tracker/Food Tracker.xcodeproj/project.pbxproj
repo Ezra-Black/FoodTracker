@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		27B920282328124200AF7B22 /* Meal.swift in Sources */ = {isa = PBXBuildFile; fileRef = 27B920272328124200AF7B22 /* Meal.swift */; };
 		27BB2F612325B93900E6CA3D /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 27BB2F602325B93900E6CA3D /* AppDelegate.swift */; };
 		27BB2F632325B93900E6CA3D /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 27BB2F622325B93900E6CA3D /* ViewController.swift */; };
 		27BB2F662325B93900E6CA3D /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 27BB2F642325B93900E6CA3D /* Main.storyboard */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		27B920272328124200AF7B22 /* Meal.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Meal.swift; sourceTree = "<group>"; };
 		27BB2F5D2325B93900E6CA3D /* Food Tracker.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Food Tracker.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		27BB2F602325B93900E6CA3D /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		27BB2F622325B93900E6CA3D /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -59,6 +61,7 @@
 				27BB2F602325B93900E6CA3D /* AppDelegate.swift */,
 				27BB2F622325B93900E6CA3D /* ViewController.swift */,
 				27BB2F72232708B100E6CA3D /* RatingControl.swift */,
+				27B920272328124200AF7B22 /* Meal.swift */,
 				27BB2F642325B93900E6CA3D /* Main.storyboard */,
 				27BB2F672325B93A00E6CA3D /* Assets.xcassets */,
 				27BB2F692325B93A00E6CA3D /* LaunchScreen.storyboard */,
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				27B920282328124200AF7B22 /* Meal.swift in Sources */,
 				27BB2F632325B93900E6CA3D /* ViewController.swift in Sources */,
 				27BB2F73232708B100E6CA3D /* RatingControl.swift in Sources */,
 				27BB2F612325B93900E6CA3D /* AppDelegate.swift in Sources */,
