@@ -40,7 +40,6 @@ import UIKit
     required init(coder: NSCoder) {
        super.init(coder: coder)
         setupButtons()
-        
     }
     
     //MARK: Button Action
